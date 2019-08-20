@@ -1,0 +1,52 @@
+FOR MAC OR LINUX:
+
+ls
+
+Pwd
+
+Cd 
+
+Cd ..
+
+Clear
+
+Cd / —> root director
+
+Cd ~
+
+Cd folder/folder/test
+
+Mkdir name
+
+Open folder
+
+Touch index.html
+
+Open index.html
+
+Open -a “Sublime Text”
+
+Open .
+
+Mv index.html about.html
+
+Up and down arrow.
+
+Rm file
+
+Rm -r folder
+
+Say hello (only on Mac).
+
+http://skimfeed.com/blog/windows-command-prompt-ls-equivalent-dir/
+
+~~~
+http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/
+https://www.iterm2.com/index.html
+http://sourabhbajaj.com/mac-setup/iTerm/README.html
+
+https://brew.sh/
+https://ohmyz.sh/
+https://fishshell.com/
+https://www.maketecheasier.com/8-useful-and-interesting-bash-prompts/
+
