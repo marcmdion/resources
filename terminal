@@ -99,3 +99,9 @@ end
 bash (show branch)
 https://gist.github.com/justintv/168835
 ~~~
+
+to use sublime .
+
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
+
+~~
